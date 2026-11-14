@@ -1,0 +1,8 @@
+{
+    "version":  "1.0.0",
+    "url":  "https://github.com/Hattoyt/relxup-releases/releases/latest/download/RelxupTools_Install.exe",
+    "payload_url":  "https://github.com/Hattoyt/relxup-releases/releases/download/v1.0.0/RelxupTools-Payload-1.0.0.zip",
+    "sha256":  "dd65097c745ab08437be618d637fd1a3d3bd800bf6a517aa8fc4df4067d06157",
+    "notes":  "",
+    "required":  false
+}
